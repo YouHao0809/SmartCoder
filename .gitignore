@@ -128,9 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
-*.bin
-*.jsonl
 .idea/
-python_model/
-*.pkl
 *.zip
+*.jsonl
